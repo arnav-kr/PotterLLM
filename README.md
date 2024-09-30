@@ -1,4 +1,4 @@
----
+<!---
 title: PotterLLM
 emoji: 🪄
 colorFrom: yellow
@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 license: agpl-3.0
 short_description: A LLM Trained on Harry Porter Series
----
+--->
 
 # PotterLLM
 
